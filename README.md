@@ -1,5 +1,5 @@
 # MkAndroidQATests
-Assignment for Mercari on Android QA Test
+Assignment on Android QA Test
 
 This is actually my first time using Jetpack Compose library. I really enjoyed exploring it but I'm not 100% sure if it works or not.
 
